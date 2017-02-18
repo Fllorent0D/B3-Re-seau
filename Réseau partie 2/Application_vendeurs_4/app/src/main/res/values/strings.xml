@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Application_vendeurs_4</string>
+    <string name="disponibility_item">Disponibilité</string>
+    <string name="reservation_item">Réservation</string>
+    <string name="sale_info_item">Informations de vente</string>
+    <string name="logbook_item">Log Book</string>
+</resources>

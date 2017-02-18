@@ -1,0 +1,59 @@
+#ifndef ACCESSSERAP_H
+#define ACCESSSERP_H
+
+#include <stdio.h>
+#include <stdlib.h>
+#include <string>
+#include <fstream>
+#include <iostream>
+#include <string.h>
+#include "Convert.h"
+
+#define MAX_WAREHOUSE_X_LENGTH 10
+#define MAX_WAREHOUSE_Y_LENGTH 10
+
+typedef struct
+{
+    std::string name;
+}
+StructSupplier;
+
+typedef struct
+{
+    std::string ref;
+    int qty;
+    int x;
+    int y;
+}
+StructWarehouse;
+
+Config conf(CONF_FILE);
+string host = conf.getValue("HOST");
+string port = conf.getValue("PORT");
+string portUrgence = conf.getValue("PORT_URGENCE");
+
+SocketClient sock(host, atoi(port.c_str()), 1);
+
+
+class AccessSerAp
+{
+    protected:
+        std::string warehouseFile = "warehouse.data";
+        std::string suppliersFile = "suppliers.data";
+        std::string ordersFile = "orders.data";
+    public:
+        AccessSerAp();
+
+        void seedDB();
+
+        int getSupplier(std::string f);
+
+        int insertGoods(StructWarehouse*, std::string*);
+
+        int getX(char* ra);
+        int getY(char* ra);
+
+        std::string getValue(std::string buff, int elem, std::string sep);
+};
+
+#endif

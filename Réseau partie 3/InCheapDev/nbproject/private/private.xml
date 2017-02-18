@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/bastin/Documents/NetBeansProjects/InCheapDev/src/compta/client_payp2/ClientPAYP2.java</file>
+            <file>file:/C:/Users/bastin/Documents/NetBeansProjects/InCheapDev/src/compta/payp/RunnablePAYP.java</file>
+            <file>file:/C:/Users/bastin/Documents/NetBeansProjects/InCheapDev/src/client_bimap/ClientBIMAP.java</file>
+            <file>file:/C:/Users/bastin/Documents/NetBeansProjects/InCheapDev/src/crypto/CryptoUtils.java</file>
+            <file>file:/C:/Users/bastin/Documents/NetBeansProjects/InCheapDev/src/client/Client.java</file>
+            <file>file:/C:/Users/bastin/Documents/NetBeansProjects/InCheapDev/src/compta/ServerCompta.java</file>
+            <file>file:/C:/Users/bastin/Documents/NetBeansProjects/InCheapDev/src/compta/wapp/RunnableWAPP.java</file>
+            <file>file:/C:/Users/bastin/Documents/NetBeansProjects/InCheapDev/src/server/Server.java</file>
+            <file>file:/C:/Users/bastin/Documents/NetBeansProjects/InCheapDev/src/models/Ville.java</file>
+            <file>file:/C:/Users/bastin/Documents/NetBeansProjects/InCheapDev/src/models/Fournisseur.java</file>
+            <file>file:/C:/Users/bastin/Documents/NetBeansProjects/InCheapDev/src/dismap/ServerDISMAP.java</file>
+            <file>file:/C:/Users/bastin/Documents/NetBeansProjects/InCheapDev/src/dismap/RunnableDISMAP.java</file>
+            <file>file:/C:/Users/bastin/Documents/NetBeansProjects/InCheapDev/src/client_dismap/PaymentWindow.java</file>
+            <file>file:/C:/Users/bastin/Documents/NetBeansProjects/InCheapDev/src/compta/bimap/RunnableBIMAP.java</file>
+            <file>file:/C:/Users/bastin/Documents/NetBeansProjects/InCheapDev/src/client_dismap/AppWindow.java</file>
+            <file>file:/C:/Users/bastin/Documents/NetBeansProjects/InCheapDev/src/models/Client.java</file>
+            <file>file:/C:/Users/bastin/Documents/NetBeansProjects/InCheapDev/src/client_bimap/AppWindow.java</file>
+            <file>file:/C:/Users/bastin/Documents/NetBeansProjects/InCheapDev/src/client_payp/ClientPAYP.java</file>
+            <file>file:/C:/Users/bastin/Documents/NetBeansProjects/InCheapDev/src/server/ServerProperties.java</file>
+            <file>file:/C:/Users/bastin/Documents/NetBeansProjects/InCheapDev/src/compta/bimap/ServerBIMAP.java</file>
+            <file>file:/C:/Users/bastin/Documents/NetBeansProjects/InCheapDev/src/models/FactureFournisseur.java</file>
+            <file>file:/C:/Users/bastin/Documents/NetBeansProjects/InCheapDev/src/compta/wapp/ServerWAPP.java</file>
+            <file>file:/C:/Users/bastin/Documents/NetBeansProjects/InCheapDev/src/payp2/RunnablePAYP2.java</file>
+            <file>file:/C:/Users/bastin/Documents/NetBeansProjects/InCheapDev/src/client_bimap/ClientWAPP.java</file>
+            <file>file:/C:/Users/bastin/Documents/NetBeansProjects/InCheapDev/nbproject/build-impl.xml</file>
+            <file>file:/C:/Users/bastin/Documents/NetBeansProjects/InCheapDev/src/client_dismap/ClientDISMAP.java</file>
+            <file>file:/C:/Users/bastin/Documents/NetBeansProjects/InCheapDev/src/client_dismap/ServerUrgence.java</file>
+            <file>file:/C:/Users/bastin/Documents/NetBeansProjects/InCheapDev/src/client_bimap/WindowWAPP.java</file>
+            <file>file:/C:/Users/bastin/Documents/NetBeansProjects/InCheapDev/src/client_dismap/AuthentificationWindow.java</file>
+            <file>file:/C:/Users/bastin/Documents/NetBeansProjects/InCheapDev/src/client_bimap/AuthentificationDialog.java</file>
+            <file>file:/C:/Users/bastin/Documents/NetBeansProjects/InCheapDev/src/client_bimap/WindowSalaries.java</file>
+            <file>file:/C:/Users/bastin/Documents/NetBeansProjects/InCheapDev/src/client/SecurityClient.java</file>
+            <file>file:/C:/Users/bastin/Documents/NetBeansProjects/InCheapDev/src/models/Salaire.java</file>
+        </group>
+    </open-files>
+</project-private>

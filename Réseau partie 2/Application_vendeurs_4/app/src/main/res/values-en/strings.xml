@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="disponibility_item">Disponibility</string>
+    <string name="reservation_item">Reservation</string>
+    <string name="sale_info_item">Sale Info</string>
+    <string name="logbook_item">Log Book</string>
+</resources>
